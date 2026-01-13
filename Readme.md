@@ -37,4 +37,4 @@ Versión 1.0.
 * [cite_start]Este proyecto tiene una licencia de uso educativo para el módulo de Diseño de Interfaces[cite: 22].
 
 ## Recursos adicionales
-* [cite_start]**Link al repositorio**: [aqui pong mi github cuando lo suba.][cite: 23, 24].
+* [cite_start]**Link al repositorio**: [https://github.com/ousamaka/Swing_P02_compendio.git][cite: 23, 24].
